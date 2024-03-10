@@ -1,4 +1,4 @@
-const bot = require(__dirname + '/lib/client')
+const bot = require(__dirname + '/lib/smd')
 const { VERSION } = require(__dirname + '/config')
 
 const start = async () => {

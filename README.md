@@ -1,5 +1,5 @@
  <h1 align="center"> Suhail Md </h1> 
-<p align="center"> Introducing Suhail_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
 <h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media"> GET PLUGINS </a>FOR SUHAIL_MD! </h3> 

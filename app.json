@@ -129,12 +129,12 @@
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
       "value": "Mbuvi Md",
-      "required": false 
+      "required": true 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
-      "required": false 
+      "value": "Mbuvi Md",
+      "required": true 
     }
   }, 
   "addons": [

@@ -2,7 +2,7 @@
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
-<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media"> GET PLUGINS </a>FOR SUHAIL_MD! </h3> 
+<h3 align="center"> <a href="https://github.com/SuhailTechInfo/Suhail-Md-Media"> EXTERNAL PLUGINS </a></h3> 
 
 
 

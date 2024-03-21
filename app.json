@@ -1,6 +1,6 @@
 {
-  "name": "suhail-md@1.2.8",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
+  "name": "suhail-md@1.3.1",
+  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
   "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
@@ -8,7 +8,7 @@
   
   "env": {
     "OWNER_NAME": {
-      "description": "Name of Bot Owner",    
+      "description": "Name for Bot Owner",    
       "value": "Suhail Ser",
       "required" :true
     },   
@@ -29,10 +29,10 @@
       "required" :false,    
       "value": "sᴜʜᴀɪʟ-ᴍᴅ"
     }, 
-    "IMAGE": {
+    "USER_IMAGES": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": "https://telegra.ph/file/758549f0de2219884f387.jpg,https://telegra.ph/file/9498496b010dfb5900b80.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -43,7 +43,12 @@
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
       "required" :false,    
       "value": "false"
-    }, 
+    },     
+    "READ_COMMAND": {
+      "description": " Read bot cmds",
+      "required" :false,    
+      "value": "false"
+    },
     "WARN_COUNT": {
       "description": " Warn count for users to kick/block when warn limit exceed!",
       "required" :false,    
@@ -129,6 +134,11 @@
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
       "value": "",
+      "required": false 
+    },
+    "STACK": {
+      "description": "STACK NAME ",
+      "value": "container | heroku-22 | 4246315815290786|01|2026|717",
       "required": false 
     }
   }, 

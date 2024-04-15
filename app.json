@@ -1,7 +1,7 @@
 {
-  "name": "suhail-md@1.3.1",
+  "name": "suhail-md@1.3.4",
   "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg",
+  "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/suhail/",
   "app_url": "/qr/",
@@ -28,11 +28,6 @@
       "description": " NAME FOR BOT",
       "required" :false,    
       "value": "sᴜʜᴀɪʟ-ᴍᴅ"
-    }, 
-    "USER_IMAGES": {
-      "description": "Image for bot",
-      "required" :false,    
-      "value": "https://telegra.ph/file/758549f0de2219884f387.jpg,https://telegra.ph/file/9498496b010dfb5900b80.jpg,https://telegra.ph/file/59bf80efbb6e6576b5a52.jpg,https://telegra.ph/file/ee0e191363161e88e4743.jpg"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -90,7 +85,7 @@
       "value": "false"
     },
     "DISABLE_PM": {
-      "description": "Disable bot in pm, Take it false if you wanna run bot in your pm (if MODE is Public)",
+      "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
       "value": "false",
       "required" :false
     },
@@ -136,11 +131,6 @@
       "value": "",
       "required": false 
     },
-    "STACK": {
-      "description": "STACK NAME ",
-      "value": "container | heroku-22 | 4246315815290786|01|2026|717",
-      "required": false 
-    }
   }, 
   "addons": [{ "plan": "heroku-postgresql:basic" }],
   "buildpacks": [

@@ -130,7 +130,7 @@
       "description": "Put Sticker Author_Name.",
       "value": "",
       "required": false 
-    },
+    }
   }, 
   "addons": [{ "plan": "heroku-postgresql:basic" }],
   "buildpacks": [

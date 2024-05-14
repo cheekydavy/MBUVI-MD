@@ -73,7 +73,7 @@
 <p align="center">
   <a href="https://suhail-web01.vercel.app/deploy?platform=heroku"> <img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"> </a>
   <a href="https://suhail-web01.vercel.app/deploy?platform=repl"  > <img src="https://img.shields.io/badge/replit-253c99?style=for-the-badge&logo=replit&logoColor=F26207"> </a>
-  <a href="https://suhail-web01.vercel.app/deploy?platform=koyed" > <img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white">    </a>
+  <a href="https://suhail-web01.vercel.app/koyeb.html" > <img src="https://img.shields.io/badge/koyeb-033604?style=for-the-badge&logo=koyeb&logoColor=white">    </a>
  <a href="https://suhail-web01.vercel.app/deploy?platform=glitch" > <img src="https://img.shields.io/badge/glitch-033604?style=for-the-badge&logo=glitch&logoColor=darkred"></a>
 </p>
 <p align="center">
@@ -114,7 +114,7 @@
 5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
-8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
+8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/koyeb.html)***
 9. ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
 10. ***Deploy on [`RENDER`](https://suhail-web01.vercel.app/deploy?on=render)***
 10. ***Get [`More Plugins`](https://github.com/SuhailTechInfo/Suhail-Md-Media)***
@@ -149,3 +149,6 @@
 - *In that case, I'm not responsible for banning your account.*
 - *Use Suhail-Md at your own risk by keeping this warning in mind.*
 
+
+
+## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS

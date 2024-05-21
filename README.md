@@ -92,7 +92,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
+- If any problem, then create an [`+issue`](https://github.com/cheekydavy/BETA-MD/issues/new) Or ask anything here [`+Q&A`](https://github.com/cheekydavy/BETA-MD/discussions/new?category=q-a)!
 
 
 
@@ -102,10 +102,10 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *MBUVI-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use MBUVI-Md at your own risk by keeping this warning in mind.*
 
 
 
-## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE: MBUVI-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS

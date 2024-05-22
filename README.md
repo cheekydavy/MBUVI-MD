@@ -9,7 +9,7 @@
    
    
 <p align="center">
-   <a href="https://github.com/SuhailTechInfo/Beta-Md/fork">
+   <a href="https://github.com/cheekydavy/Mbuvi-Md/fork">
     <img src="https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg">
    </a>
  
@@ -63,9 +63,9 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
-2.  ***Click [`FORK`](https://github.com/cheekydavy/Beta-MD/fork) and `Star ⭐ Repository` for Courage.***
+2.  ***Click [`FORK`](https://github.com/cheekydavy/Mbuvi-MD/fork) and `Star ⭐ Repository` for Courage.***
 
-3.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/Beta-MD).  `FIXED! ✔️`***
+3.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/cheekydavy/Mbuvi-MD).  `FIXED! ✔️`***
 
 
 4. ***Get [`More Plugins`](https://github.com/SuhailTechInfo/Suhail-Md-Media)***
@@ -78,7 +78,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/cheekydavy/BETA-MD/issues/new) Or ask anything here [`+Q&A`](https://github.com/cheekydavy/BETA-MD/discussions/new?category=q-a)!
+- If any problem, then create an [`+issue`](https://github.com/cheekydavy/Mbuvi-MD/issues/new) Or ask anything here [`+Q&A`](https://github.com/cheekydavy/Mbuvi-MD/discussions/new?category=q-a)!
 
 
 

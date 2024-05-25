@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "MBUVI-ᴍᴅ"
+      "value": "MBUVI-MD"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",

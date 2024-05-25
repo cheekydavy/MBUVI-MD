@@ -61,7 +61,7 @@
    
 ## Deployment Methods
 ---
-1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
+1.  ***Get `SESSION ID` by  [`PAIRING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 
 2.  ***Click [`FORK`](https://github.com/cheekydavy/Mbuvi-MD/fork) and `Star ⭐ Repository` for Courage.***
 

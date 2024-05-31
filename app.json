@@ -1,6 +1,6 @@
 {
   "name": "MBUVI-MD",
-  "description": "I am MBUVI-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : t.me/mbuvi",
+  "description": "I am MBUVI-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : <a href= "t.me/mbuvi"</a>",
   "logo": "https://telegra.ph/file/a7ca8d4777fa8ad977795.jpg",
   "keywords": ["MBUVI MD","multi device"],
   "success_url": "/suhail/",
